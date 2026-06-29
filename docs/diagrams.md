@@ -15,7 +15,7 @@
 Представляет физическую структуру базы данных. Показаны таблицы `User`, `Contact`, `Tag` и промежуточная таблица `ContactTag`, а также первичные и внешние ключи.
 
 <p align="center">
-<img src="images/er_diagram.png" width="700">
+<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/er_diagram.jpg" width="900">
 </p>
 
 ---
