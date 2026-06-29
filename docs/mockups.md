@@ -4,7 +4,7 @@
 
 ## 1. Окно авторизации
 
-<img src="https://github.com/dmxxd/PhoneBookApp/raw/master/images/login_mockup" width="700">
+<img src="PhoneBookApp/images/login_mockup" width="700">
 
 **Назначение:** Авторизация зарегистрированного пользователя.
 
