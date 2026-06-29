@@ -52,7 +52,7 @@
 
 ---
 
-## 4. Окно добавления/редактирования контакта
+## 4. Окно контакта
 
 <p align="center">
 <img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/contact_mockup.png" width="500">
