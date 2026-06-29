@@ -129,42 +129,58 @@
 ```text
 PhoneBookApp/
 │
-├── docs/                      Документация проекта
-├── images/                    Изображения окон/диаграмм/макетов/графов
-├── PhoneBookApp/              Исходный код (Основной проект)
-│   ├── Data/                  Работа с базой данных SQLite
-│   │   ├── AppDbContext.cs
-│   │   └── Repositories/      Репозитории для сущностей
-│   ├── Models/                Модели данных
-│   │   ├── User.cs
+├── PhoneBookApp.sln              # Решение Visual Studio
+├── README.md                     # Главная документация
+│
+├── docs/                         # Документация проекта
+│   ├── diagrams.md               # Диаграммы
+│   ├── mockups.md                # Макеты интерфейса
+│   └── requirements.md           # Требования к системе
+│
+├── PhoneBookApp/                 # Исходный код приложения (Windows Forms)
+│   ├── App.config                 # Конфигурация приложения
+│   ├── packages.config            # Зависимости NuGet
+│   ├── PhoneBookApp.csproj        # Файл проекта
+│   ├── Program.cs                  # Точка входа в приложение
+│   │
+│   ├── Database/                  # Работа с базой данных SQLite
+│   │   └── DatabaseHelper.cs
+│   │
+│   ├── Forms/                     # Графические окна (Windows Forms)
+│   │   ├── ContactForm.cs
+│   │   ├── ContactForm.Designer.cs
+│   │   ├── ContactForm.resx
+│   │   ├── LoginForm.cs
+│   │   ├── LoginForm.Designer.cs
+│   │   ├── LoginForm.resx
+│   │   ├── MainForm.cs
+│   │   ├── MainForm.Designer.cs
+│   │   ├── MainForm.resx
+│   │   ├── RegisterForm.cs
+│   │   ├── RegisterForm.Designer.cs
+│   │   ├── UserManagementForm.cs
+│   │   ├── UserManagementForm.Designer.cs
+│   │   └── UserManagementForm.resx
+│   │
+│   ├── Helpers/                   # Вспомогательные утилиты
+│   │   ├── PasswordHelper.cs
+│   │   └── ThemeManager.cs
+│   │
+│   ├── Models/                    # Модели данных (сущности)
 │   │   ├── Contact.cs
-│   │   └── Tag.cs
-│   ├── ViewModels/            Логика и состояния окон (MVVM)
-│   │   ├── LoginViewModel.cs
-│   │   ├── RegistrationViewModel.cs
-│   │   ├── MainViewModel.cs
-│   │   ├── ContactViewModel.cs
-│   │   └── UserManagementViewModel.cs
-│   ├── Views/                 Графические окна (XAML / Forms)
-│   │   ├── LoginWindow.xaml
-│   │   ├── RegistrationWindow.xaml
-│   │   ├── MainWindow.xaml
-│   │   ├── ContactWindow.xaml
-│   │   └── UserManagementWindow.xaml
-│   ├── Services/              Бизнес-логика и сервисы
-│   │   ├── AuthService.cs
-│   │   ├── ContactService.cs
-│   │   ├── UserService.cs
-│   │   └── ValidationService.cs
-│   ├── Helpers/               Вспомогательные классы и конвертеры
-│   │   ├── RelayCommand.cs
-│   │   └── Converters/
-│   ├── Properties/            Настройки проекта
-│   ├── App.config
-│   ├── App.xaml
-│   └── PhoneBookApp.csproj
-├── packages/                  Зависимости и пакеты NuGet
-└── PhoneBookApp.sln           Решение Visual Studio
+│   │   └── User.cs
+│   │
+│   └── Properties/                # Настройки и ресурсы проекта
+│       ├── AssemblyInfo.cs
+│       ├── Resources.Designer.cs
+│       ├── Resources.resx
+│       ├── Settings.Designer.cs
+│       └── Settings.settings
+│
+└── tests/                         # Тестирование проекта
+    ├── integration_test.md        # Интеграционные тесты
+    └── module_test.md             # Модульные тесты
+```
 
 ---
 
