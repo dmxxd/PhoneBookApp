@@ -6,7 +6,7 @@
 Описывает сущности системы, их атрибуты и связи. Показывает, что один пользователь владеет множеством контактов, а контакт может содержать множество тегов через связующую таблицу.
 
 <p align="center">
-<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/inf_model.jpg" width="700">
+<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/inf_model.jpg" width="900">
 </p>
 
 ---
