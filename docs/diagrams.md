@@ -42,7 +42,7 @@
 Описывает динамику взаимодействия объектов во времени. Левая часть диаграммы показывает сценарии для обычного пользователя (регистрация, вход, добавление и удаление контакта, фильтрация, смена темы). Правая часть показывает действия администратора (блокировка, разблокировка, просмотр чужих контактов и т.д.).
 
 <p align="center">
-<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/sequence_diagram.jpg" width="500">
+<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/sequence_diagram.jpg" width="400">
 </p>
 
 ---
