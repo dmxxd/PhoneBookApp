@@ -38,7 +38,7 @@
 ## 3. Главное окно
 
 <p align="center">
-<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/main_mockup.png" width="500">
+<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/main_mockup.png" width="700">
 </p>
 
 **Назначение:** Основной интерфейс для работы с телефонной книгой.
