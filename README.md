@@ -171,9 +171,7 @@ PhoneBookApp/
 # Требования
 
 * Windows 10/11;
-
 * .NET Desktop Runtime;
-
 * Visual Studio 2022-2026.
 
 ---
