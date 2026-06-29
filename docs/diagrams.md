@@ -24,7 +24,7 @@
 Демонстрирует функциональные возможности системы с точки зрения двух акторов: **Пользователя** и **Администратора**. Включает в себя авторизацию, регистрацию, управление контактами, тегами, а также административные функции (блокировка, изменение ролей и т.д.).
 
 <p align="center">
-<img src="images/use_case_diagram.png" width="700">
+<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/use_case_diagram.jpg" width="700">
 </p>
 
 ---
@@ -33,7 +33,7 @@
 Показывает статическую структуру программы. Класс `System` содержит общие методы валидации и сообщений, а классы `Admin` и `User` наследуются от него, имея свои уникальные наборы методов и свойств.
 
 <p align="center">
-<img src="images/class_diagram.png" width="700">
+<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/class_diagram.jpg" width="700">
 </p>
 
 ---
@@ -42,7 +42,7 @@
 Описывает динамику взаимодействия объектов во времени. Левая часть диаграммы показывает сценарии для обычного пользователя (регистрация, вход, добавление и удаление контакта, фильтрация, смена темы). Правая часть показывает действия администратора (блокировка, разблокировка, просмотр чужих контактов и т.д.).
 
 <p align="center">
-<img src="images/sequence_diagram.png" width="700">
+<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/sequence_diagram.jpg" width="700">
 </p>
 
 ---
@@ -51,5 +51,5 @@
 Отражает архитектуру развертывания и зависимости между модулями. Показывает связи (зависимости) между главным ядром `System` и модулями `User` и `Admin`.
 
 <p align="center">
-<img src="images/component_diagram.png" width="700">
+<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/component_diagram.jpg" width="700">
 </p>
