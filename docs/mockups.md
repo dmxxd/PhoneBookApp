@@ -6,6 +6,7 @@
 
 <p align="center">
 <img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/login_mockup.png" width="700">
+</p>
 
 **Назначение:** Авторизация зарегистрированного пользователя.
 
