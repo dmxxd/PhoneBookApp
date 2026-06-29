@@ -65,7 +65,7 @@
 * удалять контакты.
 
 <p align="center">
-<img src="images/main.jpg" width="500">
+<img src="images/main.jpg" width="700">
 </p>
 
 ---
@@ -99,7 +99,7 @@
 * удалять пользователей.
 
 <p align="center">
-<img src="images/user_management.jpg" width="500">
+<img src="images/user_management.jpg" width="700">
 </p>
 
 ---
