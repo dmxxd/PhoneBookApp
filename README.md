@@ -37,7 +37,7 @@
 Если учетной записи нет, перейдите к регистрации.
 
 <p align="center">
-<img src="images/login.jpg" width="700">
+<img src="images/login.jpg" width="500">
 </p>
 
 ---
@@ -47,7 +47,7 @@
 Для создания новой учетной записи необходимо заполнить регистрационную форму и подтвердить создание аккаунта.
 
 <p align="center">
-<img src="images/registration.jpg" width="700">
+<img src="images/registration.jpg" width="500">
 </p>
 
 ---
@@ -65,7 +65,7 @@
 * удалять контакты.
 
 <p align="center">
-<img src="images/main.jpg" width="900">
+<img src="images/main.jpg" width="500">
 </p>
 
 ---
@@ -82,7 +82,7 @@
 * сохранение изменений.
 
 <p align="center">
-<img src="images/contact.jpg" width="700">
+<img src="images/contact.jpg" width="500">
 </p>
 
 ---
@@ -99,7 +99,7 @@
 * удалять пользователей.
 
 <p align="center">
-<img src="images/user_management.jpg" width="900">
+<img src="images/user_management.jpg" width="500">
 </p>
 
 ---
