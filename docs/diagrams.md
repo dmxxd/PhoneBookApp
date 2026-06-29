@@ -51,5 +51,5 @@
 Отражает архитектуру развертывания и зависимости между модулями. Показывает связи (зависимости) между главным ядром `System` и модулями `User` и `Admin`.
 
 <p align="center">
-<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/component_diagram.jpg" width="500">
+<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/component_diagram.jpg" width="450">
 </p>
