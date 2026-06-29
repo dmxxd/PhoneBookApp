@@ -137,6 +137,25 @@ PhoneBookApp/
 │   ├── mockups.md                # Макеты интерфейса
 │   └── requirements.md           # Требования к системе
 │
+├── images/                       # Медиафайлы (скриншоты, макеты, диаграммы)
+│   ├── login.jpg
+│   ├── registration.jpg
+│   ├── main.jpg
+│   ├── contact.jpg
+│   ├── user_management.jpg
+│   ├── inf_model.png
+│   ├── er_diagram.png
+│   ├── use_case_diagram.png
+│   ├── class_diagram.png
+│   ├── sequence_diagram.png
+│   ├── component_diagram.png
+│   ├── program_graph.png
+│   ├── login_mockup
+│   ├── registration_mockup
+│   ├── main_mockup
+│   ├── contact_mockup
+│   └── user_management_mockup
+│
 ├── PhoneBookApp/                 # Исходный код приложения (Windows Forms)
 │   ├── App.config                 # Конфигурация приложения
 │   ├── packages.config            # Зависимости NuGet
