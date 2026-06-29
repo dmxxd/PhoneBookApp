@@ -129,11 +129,42 @@
 ```text
 PhoneBookApp/
 │
-├── docs/                 Документация проекта
-├── images/               Изображения окон/диаграмм/макетов/графов
-├── PhoneBookApp/         Исходный код
-├── packages/             Зависимости
-└── PhoneBookApp.sln      Решение Visual Studio
+├── docs/                      Документация проекта
+├── images/                    Изображения окон/диаграмм/макетов/графов
+├── PhoneBookApp/              Исходный код (Основной проект)
+│   ├── Data/                  Работа с базой данных SQLite
+│   │   ├── AppDbContext.cs
+│   │   └── Repositories/      Репозитории для сущностей
+│   ├── Models/                Модели данных
+│   │   ├── User.cs
+│   │   ├── Contact.cs
+│   │   └── Tag.cs
+│   ├── ViewModels/            Логика и состояния окон (MVVM)
+│   │   ├── LoginViewModel.cs
+│   │   ├── RegistrationViewModel.cs
+│   │   ├── MainViewModel.cs
+│   │   ├── ContactViewModel.cs
+│   │   └── UserManagementViewModel.cs
+│   ├── Views/                 Графические окна (XAML / Forms)
+│   │   ├── LoginWindow.xaml
+│   │   ├── RegistrationWindow.xaml
+│   │   ├── MainWindow.xaml
+│   │   ├── ContactWindow.xaml
+│   │   └── UserManagementWindow.xaml
+│   ├── Services/              Бизнес-логика и сервисы
+│   │   ├── AuthService.cs
+│   │   ├── ContactService.cs
+│   │   ├── UserService.cs
+│   │   └── ValidationService.cs
+│   ├── Helpers/               Вспомогательные классы и конвертеры
+│   │   ├── RelayCommand.cs
+│   │   └── Converters/
+│   ├── Properties/            Настройки проекта
+│   ├── App.config
+│   ├── App.xaml
+│   └── PhoneBookApp.csproj
+├── packages/                  Зависимости и пакеты NuGet
+└── PhoneBookApp.sln           Решение Visual Studio
 
 ---
 
