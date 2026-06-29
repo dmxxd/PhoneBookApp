@@ -5,7 +5,7 @@
 ## 1. Окно авторизации
 
 <p align="center">
-<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/login_mockup.png" width="700">
+<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/login_mockup.png" width="500">
 </p>
 
 **Назначение:** Авторизация зарегистрированного пользователя.
@@ -22,7 +22,7 @@
 ## 2. Окно регистрации
 
 <p align="center">
-<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/registration_mockup.png" width="700">
+<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/registration_mockup.png" width="500">
 </p>
 
 **Назначение:** Создание нового аккаунта пользователя.
@@ -38,7 +38,7 @@
 ## 3. Главное окно
 
 <p align="center">
-<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/main_mockup.png" width="900">
+<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/main_mockup.png" width="500">
 </p>
 
 **Назначение:** Основной интерфейс для работы с телефонной книгой.
@@ -55,7 +55,7 @@
 ## 4. Окно добавления/редактирования контакта
 
 <p align="center">
-<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/contact_mockup.png" width="700">
+<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/contact_mockup.png" width="500">
 </p>
 
 **Назначение:** Форма для заполнения данных о новом контакте или редактирования существующего.
@@ -73,7 +73,7 @@
 ## 5. Окно управления пользователями (Администратор)
 
 <p align="center">
-<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/user_management_mockup.png" width="900">
+<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/user_management_mockup.png" width="500">
 </p>
 
 **Назначение:** Интерфейс администратора для управления аккаунтами пользователей.
