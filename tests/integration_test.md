@@ -3,7 +3,7 @@
 ## Управляющий граф программы
 
 <p align="center">
-<img src="images/program_graph.png" width="700">
+<img src="https://github.com/dmxxd/PhoneBookApp/blob/master/images/program_graph.png" width="700">
 </p>
 
 ## Основные тестовые пути
